@@ -1,0 +1,103 @@
+{
+	"types":{
+			"Automotive Facility":{
+			"value":"8.8232"
+		},
+			"Convention Center":{
+			"value":"11.6208"
+		},
+			"Courthouse":{
+			"value":"11.298"
+		},
+			"Dining: Bar Lounge/Leisure":{
+			"value":"10.6524"
+		},
+			"Dining: Cafeteria/Fast Food":{
+			"value":"9.684"
+		},
+			"Dining: Family":{
+			"value":"9.5764"
+		},
+			"Dormitory":{
+			"value":"6.5636"
+		},
+			"Exercise Center":{
+			"value":"9.4688"
+		},
+			"Fire Station":{
+			"value":"7.6396"
+		},
+			"Gymnasium":{
+			"value":"10.76"
+		},
+			"Health-care Clinic":{
+			"value":"9.3612"
+		},
+			"Hospital":{
+			"value":"13.0196"
+		},
+			"Hotel":{
+			"value":"10.76"
+		},
+			"Library":{
+			"value":"12.6968"
+		},
+			"Manufacturing Facility":{
+			"value":"11.9436"
+		},
+			"Motel":{
+			"value":"9.4688"
+		},
+			"Motion Picture Theater":{
+			"value":"8.9308"
+		},
+			"Multifamily":{
+			"value":"6.456"
+		},
+			"Museum":{
+			"value":"11.4056"
+		},
+			"Office":{
+			"value":"9.684"
+		},
+			"Parking Garage":{
+			"value":"2.69"
+		},
+			"Penitentiary":{
+			"value":"10.4372"
+		},
+			"Performing Arts Theater":{
+			"value":"14.9564"
+		},
+			"Police":{
+			"value":"10.3296"
+		},
+			"Post Office":{
+			"value":"9.3612"
+		},
+			"Religious Building":{
+			"value":"11.298"
+		},
+			"Retail":{
+			"value":"15.064"
+		},
+			"School/University":{
+			"value":"10.6524"
+		},
+			"Sports Arena":{
+			"value":"8.3928"
+		},
+			"Town Hall":{
+			"value":"9.8992"
+		},
+			"Transportation":{
+			"value":"8.2852"
+		},
+			"Warehouse":{
+			"value":"7.1016"
+		},
+			"Workshop":{
+			"value":"12.912"
+		}
+	}
+}	

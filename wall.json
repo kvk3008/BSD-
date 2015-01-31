@@ -1,0 +1,50 @@
+{
+	"material":[
+	{   
+		"name":"Cement Plaster",
+		"id":"office",
+		"value":"1.0"
+	},  
+	{   
+		"name":"Brick",
+		"id":"kitchen",
+		"value":"2.0"
+	},
+	{   
+		"name":"FlyAsh",
+		"id":"office",
+		"value":"1.0"
+	},  
+	{   
+		"name":"AAC",
+		"id":"office",
+		"value":"1.0"
+	},  
+	{   
+		"name":"Stone",
+		"id":"office",
+		"value":"1.0"
+	},  
+	{   
+		"name":"Concrete",
+		"id":"office",
+		"value":"1.0"
+	},  
+	{   
+		"name":"XPS",
+		"id":"office",
+		"value":"1.0"
+	},  
+	{   
+		"name":"PUF",
+		"id":"office",
+		"value":"1.0"
+	},  
+	{   
+		"name":"PIR",
+		"id":"office",
+		"value":"1.0"
+	}  
+	]   
+}
+

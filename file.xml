@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Zones>
+<ClimateZoneFirst>
+
+	<NonResidential>
+		<OpaqueElements>
+			<Roofs>
+				<InsulationEntirelyAboveDeck>
+					<AssemblyMaximum>U-0.357</AssemblyMaximum>
+					<InsulationMinRValue>R-2.64 ci</InsulationMinRValue>
+				</InsulationEntirelyAboveDeck>
+				<ReflectivityLimit>0.7</ReflectivityLimit>
+				<EmissivityLimit>0.75</EmissivityLimit>
+				<Reflectivity>0.3</Reflectivity>
+				<ModellingValue>0.45</ModellingValue>
+			</Roofs>
+			<AboveGradeWalls>
+				<SteelFramed>
+					<AssemblyMaximum>U-0.703</AssemblyMaximum>
+					<InsulationMinRValue>R-2.91</InsulationMinRValue>
+				</SteelFramed>
+			</AboveGradeWalls>
+			<Floors>
+				<SteelJoist>
+					<AssemblyMaximum>U-1.985</AssemblyMaximum>
+					<InsulationMinRValue>NR</InsulationMinRValue>
+				</SteelJoist>
+			</Floors>
+			<OpaqueDoors>
+				<Swinging>
+					<AssemblyMaximum>U-3.97</AssemblyMaximum>
+				</Swinging>
+				<NonSwinging>
+					<AssemblyMaximum>U-8.224</AssemblyMaximum>
+				</NonSwinging>
+			</OpaqueDoors>
+			<SlabOnGradeFloors>
+				<UnHeated>
+					<AssemblyMaximum>F-4.14</AssemblyMaximum>
+					<InsulationMinRValue>NR</InsulationMinRValue>
+				</UnHeated>
+				<Heated>
+					<AssemblyMaximum>F-5.785</AssemblyMaximum>
+					<InsulationMinRValue>R-1.322</InsulationMinRValue>
+				</Heated>
+			</SlabOnGradeFloors>
+		</OpaqueElements>
+		<WWR>40</WWR>
+		<Fenestration>
+			<AssemblyMaximumUValue>6.80</AssemblyMaximumUValue>
+			<AssemblyMaximumSHGC>0.25</AssemblyMaximumSHGC>
+		</Fenestration>
+		<SkyLightToRoofRatio>5</SkyLightToRoofRatio>
+		<SkyLightGlazing>
+			<CurbAndGlass>
+				<AssemblyMaximumUValue>11.23</AssemblyMaximumUValue>
+				<AssemblyMaximumSHGC>0.19</AssemblyMaximumSHGC>
+			</CurbAndGlass>
+			<CurbAndPlastic>
+				<AssemblyMaximumUValue>10.77</AssemblyMaximumUValue>
+				<AssemblyMaximumSHGC>0.27</AssemblyMaximumSHGC>
+			</CurbAndPlastic>
+			<WithoutCurb>
+				<AssemblyMaximumUValue>7.71</AssemblyMaximumUValue>
+				<AssemblyMaximumSHGC>0.19</AssemblyMaximumSHGC>
+			</WithoutCurb>
+		</SkyLightGlazing>
+	</NonResidential>
+
+	<Residential>
+		<OpaqueElements>
+			<Roofs>
+				<InsulationEntirelyAboveDeck>
+					<AssemblyMaximum>U-0.272</AssemblyMaximum>
+					<InsulationMinRValue>R-3.52 ci</InsulationMinRValue>
+				</InsulationEntirelyAboveDeck>
+				<ReflectivityLimit>0.7</ReflectivityLimit>
+				<EmissivityLimit>0.75</EmissivityLimit>
+				<Reflectivity>0.3</Reflectivity>
+				<ModellingValue>0.45</ModellingValue>
+			</Roofs>
+			<AboveGradeWalls>
+				<SteelFramed>
+					<AssemblyMaximum>U-0.703</AssemblyMaximum>
+					<InsulationMinRValue>R-2.29</InsulationMinRValue>
+				</SteelFramed>
+			</AboveGradeWalls>
+			<Floors>
+				<SteelJoist>
+					<AssemblyMaximum>U-1.98</AssemblyMaximum>
+					<InsulationMinRValue>NR</InsulationMinRValue>
+				</SteelJoist>
+			</Floors>
+			<OpaqueDoors>
+				<Swinging>
+					<AssemblyMaximum>U-3.97</AssemblyMaximum>
+				</Swinging>
+				<NonSwinging>
+					<AssemblyMaximum>U-8.22</AssemblyMaximum>
+				</NonSwinging>
+			</OpaqueDoors>
+			<SlabOnGradeFloors>
+				<UnHeated>
+					<AssemblyMaximum>F-4.14</AssemblyMaximum>
+					<InsulationMinRValue>NR</InsulationMinRValue>
+				</UnHeated>
+				<Heated>
+					<AssemblyMaximum>F-5.785</AssemblyMaximum>
+					<InsulationMinRValue>R-1.32</InsulationMinRValue>
+				</Heated>
+			</SlabOnGradeFloors>
+		</OpaqueElements>
+		<WWR>40</WWR>
+		<Fenestation>
+			<AssemblyMaximumUValue>6.8</AssemblyMaximumUValue>
+			<AssemblyMaximumSHGC>0.25</AssemblyMaximumSHGC>
+		</Fenestation>
+		<SkyLightToRoofRatio>5</SkyLightToRoofRatio>
+		<SkyLightGlazing>
+			<CurbAndGlass>
+				<AssemblyMaximumUValue>11.23</AssemblyMaximumUValue>
+				<AssemblyMaximumSHGC>0.16</AssemblyMaximumSHGC>
+			</CurbAndGlass>
+			<CurbAndPlastic>
+				<AssemblyMaximumUValue>10.77</AssemblyMaximumUValue>
+				<AssemblyMaximumSHGC>0.27</AssemblyMaximumSHGC>
+			</CurbAndPlastic>
+			<WithoutCurb>
+				<AssemblyMaximumUValue>7.71</AssemblyMaximumUValue>
+				<AssemblyMaximumSHGC>0.19</AssemblyMaximumSHGC>
+			</WithoutCurb>
+		</SkyLightGlazing>
+	</Residential>
+
+	<SemiHeated>
+		<OpaqueElements>
+			<Roofs>
+				<InsulationEntirelyAboveDeck>
+					<AssemblyMaximum>U-1.236</AssemblyMaximum>
+					<InsulationMinRValue>R-0.66</InsulationMinRValue>
+				</InsulationEntirelyAboveDeck>
+				<ReflectivityLimit>0.7</ReflectivityLimit>
+				<EmissivityLimit>0.75</EmissivityLimit>
+				<Reflectivity>0.3</Reflectivity>
+				<ModellingValue>0.45</ModellingValue>
+			</Roofs>
+			<AboveGradeWalls>
+				<SteelFramed>
+					<AssemblyMaximum>U-1.996</AssemblyMaximum>
+					<InsulationMinRValue>NR</InsulationMinRValue>
+				</SteelFramed>
+			</AboveGradeWalls>
+			<Floors>
+				<SteelJoist>
+					<AssemblyMaximum>U-1.98</AssemblyMaximum>
+					<InsulationMinRValue>NR</InsulationMinRValue>
+				</SteelJoist>
+			</Floors>
+			<OpaqueDoors>
+				<Swinging>
+					<AssemblyMaximum>U-3.97</AssemblyMaximum>
+				</Swinging>
+				<NonSwinging>
+					<AssemblyMaximum>U-8.224</AssemblyMaximum>
+				</NonSwinging>
+			</OpaqueDoors>
+			<SlabOnGradeFloors>
+				<UnHeated>
+					<AssemblyMaximum>F-4.254</AssemblyMaximum>
+					<InsulationMinRValue>NR</InsulationMinRValue>
+				</UnHeated>
+				<Heated>
+					<AssemblyMaximum>F-5.78</AssemblyMaximum>
+					<InsulationMinRValue>R-1.322</InsulationMinRValue>
+				</Heated>
+			</SlabOnGradeFloors>
+		</OpaqueElements>
+		<WWR>40</WWR>
+		<Fenestration>
+			<AssemblyMaximumUValue>6.806</AssemblyMaximumUValue>
+			<AssemblyMaximumSHGC>NR</AssemblyMaximumSHGC>
+		</Fenestration>
+		<SkyLightToRoofRatio>5</SkyLightToRoofRatio>
+		<SkyLightGlazing>
+			<CurbAndGlass>
+				<AssemblyMaximumUValue>11.23</AssemblyMaximumUValue>
+				<AssemblyMaximumSHGC>NR</AssemblyMaximumSHGC>
+			</CurbAndGlass>
+			<CurbAndPlastic>
+				<AssemblyMaximumUValue>10.77</AssemblyMaximumUValue>
+				<AssemblyMaximumSHGC>NR</AssemblyMaximumSHGC>
+			</CurbAndPlastic>
+			<WithoutCurb>
+				<AssemblyMaximumUValue>7.71</AssemblyMaximumUValue>
+				<AssemblyMaximumSHGC>NR</AssemblyMaximumSHGC>
+			</WithoutCurb>
+		</SkyLightGlazing>
+	</SemiHeated>
+
+	<HVAC>
+		<System1>
+			<SystemType>Packaged Terminal Air Conditioner</SystemType>
+			<FanControl>Constant Volume</FanControl>
+			<CoolingType>Direct Expansion</CoolingType>
+			<HeatingType>Hot Water Fossil Fuel Boiler</HeatingType>
+		</System1>
+		<System2>
+			<SystemType>Packaged Terminal Heat Pump</SystemType>
+			<FanControl>Constant Volume</FanControl>
+			<CoolingType>Direct Expansion</CoolingType>
+			<HeatingType>Electric Heat Pump</HeatingType>
+		</System2>
+		<System3>
+			<SystemType>Packaged Rooftop Air Conditioner</SystemType>
+			<FanControl>Constant Volume</FanControl>
+			<CoolingType>Direct Expansion</CoolingType>
+			<HeatingType>Fossil Fuel Furnace</HeatingType>
+			<COP>
+				<Lessthan65000>10.0 SEER(before 1/23/2006), 12.0 SEER(as of 1/23/2006)</Lessthan65000>
+				<Lessthan30000>10.0 SEER(before 1/23/2006), 10.9 SEER(as of 1/23/2006), 12.0 SEER(as of 1/23/2010)</Lessthan30000>
+				<Lessthan135000>10.1 EER</Lessthan135000>
+				<Lessthan240000>9.3 EER</Lessthan240000>
+				<Greaterthan240000>9.0 EER, 9.2 IPLV</Greaterthan240000>
+			</COP>
+		</System3>
+		<System4>
+			<SystemType>Packaged Rooftop Heat Pump</SystemType>
+			<FanControl>Constant Volume</FanControl>
+			<CoolingType>Direct Expansion</CoolingType>
+			<HeatingType>Electric Heat Pump</HeatingType>
+			<COP>
+				<Lessthan65000>10.0 SEER(before 1/23/2006), 12.0 SEER(as of 1/23/2006)</Lessthan65000>
+				<Lessthan30000>10.0 SEER(before 1/23/2006), 10.9 SEER(as of 1/23/2006), 12.0 SEER(as of 1/23/2010)</Lessthan30000>
+				<Lessthan135000>10.1 EER</Lessthan135000>
+				<Lessthan240000>9.3 EER</Lessthan240000>
+				<Greaterthan240000>9.0 EER, 9.2 IPLV</Greaterthan240000>
+			</COP>
+		</System4>
+		<System5>
+			<SystemType>Packaged Rooftop Variable Air Volume With Reheat</SystemType>
+			<FanControl>VAV</FanControl>
+			<CoolingType>Direct Expansion</CoolingType>
+			<HeatingType>Hot Water Fossil Fuel Boiler</HeatingType>
+			<COP>
+				<Lessthan65000>10.0 SEER(before 1/23/2006), 12.0 SEER(as of 1/23/2006)</Lessthan65000>
+				<Lessthan30000>10.0 SEER(before 1/23/2006), 10.9 SEER(as of 1/23/2006), 12.0 SEER(as of 1/23/2010)</Lessthan30000>
+				<Lessthan135000>10.3 EER</Lessthan135000>
+				<Lessthan240000>9.7 EER</Lessthan240000>
+				<Greaterthan240000>9.5 EER, 9.7 IPLV</Greaterthan240000>
+			</COP>
+		</System5>
+		<System6>
+			<SystemType>Packaged Rooftop Variable Air Volume With Parallel Fan Power Boxes And Reheat</SystemType>
+			<FanControl>VAV</FanControl>
+			<CoolingType>Direct Expansion</CoolingType>
+			<HeatingType>Electric Resistance</HeatingType>
+			<COP>
+				<Lessthan65000>10.0 SEER(before 1/23/2006), 12.0 SEER(as of 1/23/2006)</Lessthan65000>
+				<Lessthan30000>10.0 SEER(before 1/23/2006), 10.9 SEER(as of 1/23/2006), 12.0 SEER(as of 1/23/2010)</Lessthan30000>
+				<Lessthan135000>10.3 EER</Lessthan135000>
+				<Lessthan240000>9.7 EER</Lessthan240000>
+				<Greaterthan240000>9.5 EER, 9.7 IPLV</Greaterthan240000>
+			</COP>
+		</System6>
+		<System7>
+			<SystemType>Variable Air Volume With Reheat</SystemType>
+			<FanControl>VAV</FanControl>
+			<CoolingType>Chilled Water</CoolingType>
+			<HeatingType>Hot Water Fossil Fuel Boiler</HeatingType>
+		</System7>
+		<System8>
+			<SystemType>Variable Air Volume With Parallel Fan Power Boxes And Reheat</SystemType>
+			<FanControl>VAV</FanControl>
+			<CoolingType>Chilled Water</CoolingType>
+			<HeatingType>Electric Resistance</HeatingType>
+		</System8>
+	</HVAC>
+</ClimateZoneFirst>
+</Zones>
+

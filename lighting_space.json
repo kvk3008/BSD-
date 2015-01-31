@@ -1,0 +1,292 @@
+{
+	"types":{
+			"Atrium (First 40 ft height)":{
+			"value":"0.3228"
+		},
+			"Atrium (Above 40 ft height)":{
+			"value":"0.2152"
+		},
+			"Audience/Seating Area - Auditorium":{
+			"value":"8.5004"
+		},
+			"Audience/Seating Area - Motion Picture Theater":{
+			"value":"12.2664"
+		},
+			"Audience/Seating Area - Performing Arts Theater":{
+			"value":"26.1468"
+		},
+			"Classroom/Lecture/Training":{
+			"value":"13.3424"
+		},
+			"Conference/Meeting/Multipurpose":{
+			"value":"13.2348"
+		},
+			"Corridor/Transition":{
+			"value":"7.1016"
+		},
+			"Dining Area":{
+			"value":"6.994"
+		},
+			"Dining Area - Bar Lounge/Leisure Dining":{
+			"value":"14.0956"
+		},
+			"Dining Area - Family Dining":{
+			"value":"9.5764"
+		},
+			"Dressing/Fitting Room - Performing Arts Theater":{
+			"value":"4.304"
+		},
+			"Electrical/Mechanical Room":{
+			"value":"10.222"
+		},
+			"Food Preperation":{
+			"value":"10.6524"
+		},
+			"Laboratory - Classroom":{
+			"value":"13.7728"
+		},
+			"Laboratory - Research":{
+			"value":"19.4756"
+		},
+			"Lobby":{
+			"value":"9.684"
+		},
+			"Lobby elevator":{
+			"value":"6.8864"
+		},
+			"Lobby - Motion Picture Theater":{
+			"value":"5.5952"
+		},
+			"Lobby - Performing Arts Theater":{
+			"value":"21.52"
+		},
+			"Locker Room":{
+			"value":"8.07"
+		},
+			"Lounge/Recreation":{
+			"value":"7.8548"
+		},
+			"Office-Enclosed":{
+			"value":"11.9436"
+		},
+			"Office-Open":{
+			"value":"10.5448"
+		},
+			"Restrooms":{
+			"value":"10.5448"
+		},
+			"Sales Area":{
+			"value":"18.0768"
+		},
+			"Stairway":{
+			"value":"7.4244"
+		},
+			"Storage":{
+			"value":"6.7788"
+		},
+			"Workshop":{
+			"value":"17.1084"
+		},
+			"Automotive - Service/Repair":{
+			"value":"17.1084"
+		},
+			"Bank/Office - Banking Activity Area":{
+			"value":"7.2092"
+		},
+			"Convention Center - Audience Seating":{
+			"value":"14.8488"
+		},
+			"Convention Center - Exhibit Space":{
+			"value":"8.8232"
+		},
+			"Courthouse/Police Station/Penitentiary - Confinement Cells":{
+			"value":"15.602"
+		},
+			"Courthouse/Police Station/Penitentiary - Courtroom":{
+			"value":"11.836"
+		},
+			"Courthouse/Police Station/Penitentiary - Judges' Chambers":{
+			"value":"18.5072"
+		},
+			"Courthouse/Police Station/Penitentiary - Penitentiary Audience Seating":{
+			"value":"12.5892"
+		},
+			"Courthouse/Police Station/Penitentiary - Penitentiary Dining":{
+			"value":"4.6268"
+		},
+			"Courthouse/Police Station/Penitentiary - Pentitentiary Classroom":{
+			"value":"11.5132"
+		},
+			"Dormitory - Living Quarters":{
+			"value":"14.4184"
+		},
+			"Fire Stations - Engine Room":{
+			"value":"4.0888"
+		},
+			"Fire Stations - Sleeping Quarters":{
+			"value":"6.0256"
+		},
+			"Gymnasium/Fitness Center - Fitness Area":{
+			"value":"2.69"
+		},
+			"Gymnasium/Fitness Center - Fitness Center - Audience Seating":{
+			"value":"7.7472"
+		},
+			"Gymnasium/Fitness Center - Gymnasium - Audience Seating":{
+			"value":"4.6268"
+		},
+			"Gymnasium/Fitness Center - Playing Area":{
+			"value":"12.912"
+		},
+			"Hospital - Corridor/Transition":{
+			"value":"9.5764"
+		},
+			"Hospital - Emergency":{
+			"value":"24.3176"
+		},
+			"Hospital - Exam/Treatment":{
+			"value":"17.8616"
+		},
+			"Hospital - Laundry - Washing":{
+			"value":"6.456"
+		},
+			"Hospital - Lounge/Recreation":{
+			"value":"11.5132"
+		},
+			"Hospital - Medical Supply":{
+			"value":"13.6652"
+		},
+			"Hospital - Nursery":{
+			"value":"9.4688"
+		},
+			"Hospital - Nurses' Station":{
+			"value":"9.3612"
+		},
+			"Hospital - Operating Room":{
+			"value":"20.3364"
+		},
+			"Hospital - Patient Room":{
+			"value":"6.6712"
+		},
+			"Hospital - Pharmacy":{
+			"value":"12.2664"
+		},
+			"Hospital - Physical Therapy":{
+			"value":"9.7916"
+		},
+			"Hospital - Radiology/Imaging":{
+			"value":"14.2032"
+		},
+			"Hospital - Recovery":{
+			"value":"12.374"
+		},
+			"Hotel/Motel - Highway Lodging Dining":{
+			"value":"9.4688"
+		},
+			"Hotel/Motel - Highway Lodging Guest Room":{
+			"value":"8.07"
+		},
+			"Hotel/Motel - Hotel Dining":{
+			"value":"8.8232"
+		},
+			"Hotel/Motel - Hotel Guest Rooms":{
+			"value":"11.9436"
+		},
+			"Hotel/Motel - Hotel Lobby":{
+			"value":"11.4056"
+		},
+			"Library - Card File & Cataloging":{
+			"value":"7.7472"
+		},
+			"Library - Reading Area":{
+			"value":"10.0068"
+		},
+			"Library - Stacks":{
+			"value":"18.3996"
+		},
+			"Manufacturing - Corridor/Transition":{
+			"value":"4.4116"
+		},
+			"Manufacturing - Detailed Manufacturing":{
+			"value":"13.8804"
+		},
+			"Manufacturing - Equipment Room":{
+			"value":"10.222"
+		},
+			"Manufacturing - Extra High Bay (≥ 50')":{
+			"value":"11.298"
+		},
+			"Manufacturing - High Bay (≥ 25' & < 50')":{
+			"value":"13.2348"
+		},
+			"Manufacturing - Low Bay (< 25')":{
+			"value":"12.8044"
+		},
+			"Museum - General Exhibition":{
+			"value":"11.298"
+		},
+			"Museum - Restoration":{
+			"value":"10.9752"
+		},
+			"Parking Garage - Garage Area":{
+			"value":"2.0444"
+		},
+			"Post Office - Sorting Area":{
+			"value":"10.1144"
+		},
+			"Religious Buildings - Audience Seating":{
+			"value":"16.4628"
+		},
+			"Religious Buildings - Fellowship Hall":{
+			"value":"6.8864"
+		},
+			"Religious Buildings - Worship Pulpit, Choir":{
+			"value":"16.4628"
+		},
+			"Retail - Dressing/Fitting Room":{
+			"value":"9.3612"
+		},
+			"Retail - Mall Concourse":{
+			"value":"11.836"
+		},
+			"Retail - Sales Area":{
+			"value":"18.0768"
+		},
+			"Sports Arena - Audience Seating":{
+			"value":"4.6268"
+		},
+			"Sports Arena - Court Sports Area - Class 1":{
+			"value":"32.3876"
+		},
+			"Sports Arena - Court Sports Area - Class 2":{
+			"value":"20.6592"
+		},
+			"Sports Arena - Court Sports Area - Class 3":{
+			"value":"12.912"
+		},
+			"Sports Arena - Court Sports Area - Class 4":{
+			"value":"7.7472"
+		},
+			"Sports Arena - Ring Sports Area":{
+			"value":"28.8368"
+		},
+			"Transportation - Air/Train/Bus Baggage Area":{
+			"value":"8.1776"
+		},
+			"Transportation - Airport Concourse":{
+			"value":"3.8736"
+		},
+			"Transportation - Audience Seating":{
+			"value":"5.8104"
+		},
+			"Transportation - Terminal - Ticket Counter":{
+			"value":"11.6208"
+		},
+			"Warehouse - Fine Material Storage":{
+			"value":"10.222"
+		},
+			"Warehouse - Medium/Bulky Material Storage":{
+			"value":"6.2408"
+		}
+	}
+}
