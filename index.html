@@ -2592,7 +2592,7 @@ $(document).ready(function(){
 					<tr>
 						<th>Demand Control Ventilation</th>
 						<td style="padding-left:207px">
-							<input type="text" name="demand_control_ventilation" id="demand_control_ventilation" onchange="loadXMLDoc('file.xml','28')">
+							<input type="text" name="demand_control_ventilation" id="demand_control_ventilation" onchange="	loadXMLDoc('file.xml','28')">
 						</td>
 						<td><p> <span id="demand_control_ventilation1"> </span> </p> </td>
 						<td><p> <span id="comp_check_demand_control_ventilation"> </span> </p> </td>
@@ -2608,7 +2608,7 @@ $(document).ready(function(){
 					</tr>
 					<tr>
 						<th>Exterior Lighting Load(kW)</th>
-						<td style="padding-left:207px"><button type="button" id="calculate_exterior_lighting_load">Calculate</button></td>
+						<td style="padding-left:207px"><button type="button" style="background-color:#a7cb00;" id="calculate_exterior_lighting_load">Calculate</button></td>
 						<td><p> <span id="exterior_lighting_load1"> </span> </p> </td>
 						<td><p> <span id="comp_check_exterior_lighting_load"> </span> </p> </td>
 					</tr>
@@ -2651,13 +2651,11 @@ $(document).ready(function(){
 	    </div>
 	</div>
 </div>
-
-
 <form action="" id="mainForm">
 	<table id="mainTable">
 		<tr>
 		<td></td>
-		<td align="center"><button type="button" onClick="reset(); loadXMLDoc('file.xml','0');">Reset</button>
+		<td align="center"><button type="button"  style="background-color:#66CCCC;"onClick="reset(); loadXMLDoc('file.xml','0');">Reset</button>
 		</td>
 		<td></td>
 		<td></td>
